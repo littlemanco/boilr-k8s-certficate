@@ -1,0 +1,11 @@
+{
+  "DomainReference": "www-littleman-co",
+  "Namespace": "default",  
+  "Domain": "www.littleman.co",
+  "Email": "devnull@littleman.co",
+  "Provider": [
+    "http",
+    "dns"
+  ], 
+  
+}
