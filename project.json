@@ -4,7 +4,22 @@
   "Domain": "www.littleman.co",
   "Email": "devnull@littleman.co",
   "Provider": [
+    "auroradns",
+    "cloudflare",
+    "digitalocean",
+    "dnsimple",
+    "dnsmadeeasy",
+    "dyn",
+    "gandi",
+    "googlecloud",
     "http",
-    "dns"
+    "linode",
+    "namecheap",
+    "ns1",
+    "ovh",
+    "pdns",
+    "rfc2136",
+    "route53",
+    "vultr"
   ]
 }
